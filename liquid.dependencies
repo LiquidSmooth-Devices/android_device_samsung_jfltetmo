@@ -6,10 +6,10 @@
     "revision": "lollipop"
   },
   {
-    "remote": "cm",
+    "remote": "lsd",
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "revision": "cm-12.0"
+    "revision": "lollipop"
   },
   {
     "remote": "cm",
