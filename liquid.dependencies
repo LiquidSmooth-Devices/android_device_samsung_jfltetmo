@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "lsd",
+    "repository": "android_device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common",
+    "revision": "lollipop"
+  }
+]
